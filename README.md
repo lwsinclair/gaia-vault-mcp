@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cognitive-stack-gaia-vault-mcp-badge.png)](https://mseep.ai/app/cognitive-stack-gaia-vault-mcp)
+
 # Gaia Vault MCP Server 🚀
 
 > 🔌 **Compatible with Cline, Cursor, Claude Desktop, and any other MCP Clients!**
